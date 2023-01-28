@@ -26,7 +26,9 @@
 
 - ⚡ Fun fact: I keep night shift swithed on at all times
 
-</td></tr></table>  
+</td>
+  
+  </tr></table>  
 
 <br/>  
 
@@ -59,7 +61,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ergashevazamat&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td></tr></table>
+</td>
+  <td valign="top" width="50%"></td></tr></table>
 
 <br/>  
 
