@@ -24,15 +24,7 @@
 - ❓ Ask me about anything related to .NET stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+- ⚡ Fun fact: I keep night shift swithed on at all times
 
 </td></tr></table>  
 
@@ -63,12 +55,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ergashevazamat&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
