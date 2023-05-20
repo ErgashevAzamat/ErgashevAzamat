@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Azamat Ergashev<br><br>- 🔭 I’m working as Thinkland Solution<br>- 📚 I'm currently learning Design Patterns</p>
+<p align="left">I'm Azamat Ergashev<br><br>- 🔭 I’m working as .NET Software Engineer at Thinkland Solutions<br>- 📚 I'm currently learning Design Patterns</p>
 
 ###
 
